@@ -12,6 +12,14 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
   <div class="container">
     <h1>Blog</h1>
+  <!--
+    <nav class="blog-nav">
+      <a href="/blog/tech">Tech</a>
+      <a href="/blog/music">Music</a>
+      <a href="/blog/life">Life</a>
+      <a href="/blog/other">Other</a>
+    </nav>
+  -->
     {allPosts.map((post, index) => {
       const href = `/blog/${post.file.split('/').pop().split('.').shift()}`;
       return (
@@ -49,4 +57,13 @@ allPosts = allPosts.sort((a, b) => new Date(b.frontmatter.publishDate).valueOf()
   hr {
     margin: 60px auto;
   }
+
+  .blog-nav {
+    display: flex;
+    a {
+      margin: 0 auto;
+    }
+  }
+
+
 </style>
