@@ -10,13 +10,15 @@ const permalink = `${Astro.site.href}about`;
 <BaseLayout title={title} description={description} permalink={permalink} current="about">
   <div class="container">
     <h1>About</h1>
+    <Bio />
+    <br />
+    <br />
     <figure class="about-image">
       <img src="/assets/about-illustration.png" alt="Illustration of a notebook" width="400">
     </figure>
     <p>Thank you for taking the time to visit my corner on the Internet.</p>
-    <Bio />
-    <p>In this space, I share my knowledge about technology, dive into fascinating world of music and explore the intricacies of life and the world around us. Whether you're looking for something specific here - or if you simply found yourself lost in the depths of Internet - I hope you will find something that resonates with you here.</p>
-    <hr />
+    <p>This is where I share my passion for technology, with a particular focus on coding and data science. <br/><br/>My primary area of interest?<br/> Music—so it’s no surprise that it takes center stage here. </p>
+    <p>Whether you’re here to learn something new, find inspiration, or simply enjoy some thought-provoking content, <br/>I hope you’ll leave with a fresh perspective.</p>
     <p>Check out my <a href="/blog/hello-world">hello world article</a> to learn more.</p>
   </div>
 </BaseLayout>

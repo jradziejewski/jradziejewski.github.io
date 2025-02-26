@@ -10,22 +10,14 @@ I finally did something I've been thinking about for a long time: started my own
 
 ## Why did I even do it?
 
-I never considered myself a writer.
-Well, I received some decent grades on my school essays, but besides that I never thought much about it.
-However, as I'm growing older, and my thoughts and ideas are expanding,
-I started thinking that some people could benefit from my discoveries.
+To be honest, I never considered myself a writer.
+Well, I got some decent grades on my school essays back in the day, but I'm not sure that counts for much.
 
+Recently though, it hit me: **knowledge doesn't just magically appear on the internet**. For us to learn, someone has to create and share it. *(I mean, I knew that, but it somehow didn't reach my conscious mind I guess)*
 
-> We have two ears and one mouth so that we can listen twice as much as we speak.
->
-> -- <cite>Epictetus</cite>
+I have consumed so much wisdom from other people over the years (*and I'm probably still doing it, somewhere in my basement as you read it!*). I used my *two ears* to listen - it's time to use my *one
+mouth* (or *keyboard*) to share. 
 
-This quote holds a special place in my heart. I love learning from others,
-but I've come to realize that for us to learn, some have to produce knowledge.
-I have consumed a great deal of wisdom from great people in the past, and now I want to use my metaphorical one
-mouth to give some of it back. 
+Besides, I know how inspiring small, personal projects can be. Some of my biggest "aha!" moments have come from stumbling across random side projects or blogs by people I've never met. If this space can inspire even one person to get creative or try something new, I'll consider it a win. **Mega big win**, even.
 
-I won't be posting here daily, and maybe not even weekly, but every article will be crafted with Epictetus' wisdom in mind.
-If you're interested in it, feel free to periodically check this website for new content.
-
-Over time, I will develop some mechanism of notifying about new articles. Thanks for reading this and hope you'll find value here.
+Thanks for being here, and I hope you find something of value in what I share.
