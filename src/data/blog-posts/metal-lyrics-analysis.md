@@ -1,5 +1,5 @@
 ---
-title: Lyrics of Metal Music Across Decades
+title: Lyrics of Metal Music Across Decades 🤘
 publishDate: 11.11.2024
 description: Exploring lyrical landscape of metal music by analyzing top 50 albums of each decade, starting from 70s.
 ---
