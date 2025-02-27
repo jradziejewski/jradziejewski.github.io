@@ -1,33 +1,46 @@
 ---
-title: 🎛️ Sound Wizardry ep.0 - Introduction
+title: 🎛️ Sound Wizardry - Introduction
 publishDate: 26 FEB 2025
 description: Introduction to Sound Wizardry.
 ---
 
 ## **🔮 Welcome to Sound Wizardry! 🎶✨**
 
-If you want to **compose music with code**, **design your own audio effects**, or... **create magical sounds** -- welcome to **Sound Wizardry**, journey that will transform you from a complete beginner into an **audio programming wizard**. 🧙🎧
-
-This **series of beginner-friendly** articles will guide you step by step into the world of **sound programming**. Whether you're a total newcomer to the field, or already familiar with programming concepts and want to explore the magic of sound, this series will help you **craft your own sonic spells**.
+This is a series of articles designed to tackle key Audio Programming concepts in accessible and engaging way. 
+Whether you're learning from scratch or brushing up on the fundamentals, there’s something here for you. 
 
 ### 💡 Why Learn Audio Programming?
 Audio programming is a vast and fascinating field, used in **video games, music, film** and beyond.
 It's where technology, mathematics, and creativity come together to create incredible soundscapes.
 
-Wait, did somoene say... *maths?!* Yes, but don't panic. I will break down the essential concepts
+Wait, did somoene say... *maths?!* Yes, but don't panic. We will break down the essential concepts
 with clear explanations so you will grasp just enough to get productive. 
 Also, I will provide optional in-depth resources for those who want to explore further.
 Remember: if you want, you can. The most important thing: don't lose curiosity and **have fun**.
 
-**Note.** This isn’t a programming course—it’s a journey into Sound Wizardry. You don’t need coding experience to begin, though it will definitely help.
+### ❓ So what's this all about?
 
-We live in 2025—AI can explain any code you throw at it. But relying only on AI? That will only take you so far. Real understanding comes from experimenting, breaking things, and figuring them out yourself.
+Audio programming is hard. 
+I’m not going to pretend like I’ve got all the answers or that I’m some kind of expert. 
+Far from it. But that’s exactly why I’m putting together this series:
+to make audio programming a little less intimidating and a lot more approachable. 
+This is for anyone who, like me, stared at a bunch of sound libraries and thought, 
+"Where do I even begin?"—and then got overwhelmed and almost gave up.
 
-We’ll start with Python. There are tons of free courses and resources out there—just pick one that looks fun and dive in.
+This series is meant to tackle key audio programming concepts in a way that makes them less scary. Whether you’re just starting out or brushing up on the fundamentals, you’ll find something here.
 
-Yes, serious audio programming involves **C++** (or other lower-level languages), but don’t worry about that right now. We’ll get there when the time is right. 
+It’s part journal of my own learning, part guide for anyone curious about diving into the world of audio programming, but too often turned off by how complicated it can seem.
 
-**Okay, so we have all disclaimers in place, now let's dive in and begin with...**
+We’ll kick things off with Python because it’s beginner-friendly, and there are tons of free resources if you need a refresher.
+
+And yes, “serious” audio programming often involves lower-level languages, but we’re not rushing into that. First, let’s play, explore, and get hands-on with sound.
+
+
+**The rest of this article is a guide on how to 
+running Python programs. This is essential for other articles in this series.**
+
+*You may not need it, if so, check out other articles in this series
+and find something interesting for **you**.*
 <hr>
 
 ## 🌟 Casting Your First Sound Spell
