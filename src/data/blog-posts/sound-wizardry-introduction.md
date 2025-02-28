@@ -102,5 +102,5 @@ python beep.py
 
 You can play around with the duration and frequency, but turn down your volume and preferably don't use headphones... If you mess up and want to stop the sound, simply panic and spam **ALT+F4** as fast possible (or unplug your computer). I swear our next programs will not be that trash...
 
-If you're ready, you can go to the next chapter - [**The Building Blocks of Sound**](/blog/sound-wizardry-1).
+If you're ready, you can go to the next chapter - [**The Building Blocks of Sound**](/blog/sound-wizardry-building-blocks).
 
